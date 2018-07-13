@@ -1,0 +1,19 @@
+.header{
+    margin-top: 53px;  
+    margin-left: 67.4%;
+    font-size: 14px;
+    color: #3086f9;
+}
+#features{
+    display: inline-table;
+}
+#developer{
+    display: inline-table;
+    padding-left: 25px;
+}
+a {
+    text-decoration:none;
+}
+a:visited { 
+    color: #3086f9;
+}
