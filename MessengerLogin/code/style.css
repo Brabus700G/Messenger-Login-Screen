@@ -17,3 +17,118 @@ a {
 a:visited { 
     color: #3086f9;
 }
+.loginLeft{
+    height: 640px;
+    width: 360px;
+    padding-left: 445px; 
+    padding-top: 88px;
+    display: block;
+    vertical-align: middle;
+}
+#icon{
+    margin-left: auto;
+    margin-right: auto;
+    display:block; 
+}
+#loginTitle{
+    margin-top: 16px;
+    text-align: center;
+    font-family: 'HelveticaNeue-Thin', 'Helvetica Neue Light', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-size: 37px;
+}
+#LTitle1{
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+#LTitle1, #LTitle2{
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'HelveticaNeue-Thin', 'Helvetica Neue Light', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+}
+#LTitle2{
+    margin-bottom: 20px;
+}
+#account{
+    margin-bottom: 10px;
+}
+#account, #password{
+    border: 1px solid rgba(0, 0, 0, .20);
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 1);
+    display: block;
+    font-family: Helvetica Neue, Segoe UI, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    height: 44px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 16px;
+    width: 320px;
+    font-weight: 10;
+}
+#loginbutton{
+    font-weight: 500;
+    background-color: #0084ff;
+    background-image: none;
+    border: 1px solid #0084ff;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: Helvetica Neue, Segoe UI, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    height: 44px;
+    margin-bottom: 24px;
+    padding: 0;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alwaysLogin{
+    text-align: center;
+    font-weight: 300;
+    font-size: 14px;
+}
+#ALcheckbox{
+    display: inline-block;
+    height: 16px;
+    position: relative;
+    width: 16px;
+}
+#downapp a{
+    color: #0084ff;
+    line-height: none;
+    cursor: pointer;
+}
+#downapp{
+    font-size: 13px;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+#rightimg{
+    position: absolute;
+    z-index: 2;
+    display: inline;
+    float: right;
+    margin-top: -685px;
+    margin-left: 835px;
+}
+#morett{
+    font-size: 38px;
+    text-align: center;
+    font-weight: 100;
+    margin-top: 38px; 
+}
+#morett2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+.moreimg{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
