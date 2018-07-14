@@ -1,3 +1,7 @@
+body{
+    padding: 0;
+    margin: 0;
+}
 .header{
     padding-top: 53px;  
     padding-left: 1300px;
@@ -123,12 +127,50 @@ a:visited {
     margin-top: 38px; 
 }
 #morett2{
-    font-size: 18px;
+    font-size: 17px;
     text-align: center;
     margin-top: 10px;
+    font-weight: 100;
 }
 .moreimg{
+    height:742px; 
+    width:960px;
+    display: block;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+#moreimg1text{
+    display: block;
+    color: rgba(0,0,0,0.55);
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 0 0 10px;
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+.moreimg1{
+    width: 158px;
+    height: 206px;
+    text-align: center;
+    margin-left: 108px;
+}
+#moreimg2text{
+    display: block;
+    color: rgba(0,0,0,0.55);
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 0 0 10px;
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+.moreimg2{
+    width: 158px;
+    height: 206px;
 }
